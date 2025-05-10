@@ -1,7 +1,4 @@
 # vue-manage-system
-二改
-源地址
-(https://github.com/lin-xin/vue-manage-system/tree/V4.2.0)
 ## 功能
 
 -   [x] Element Plus
